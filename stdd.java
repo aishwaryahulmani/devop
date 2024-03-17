@@ -1,7 +1,7 @@
-class Student {
+class Stdd {
     private String name;
 
-    public Student(String name) {
+    public Stdd(String name) {
         this.name = name;
     }
 
@@ -13,7 +13,7 @@ class Student {
 public class Main {
     public static void main(String[] args) {
         // Creating Student object
-        Student student = new Student("John Doe");
+        Stdd student = new Stdd("John Doe");
 
         // Display Student Name
         student.displayName();
