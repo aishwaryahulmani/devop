@@ -19,5 +19,6 @@ public class Main {
         //new feature;
         student.displayName();
         gregvda
+        khhjnm,hj 
     }
 }
